@@ -5,7 +5,7 @@ import { HeaderMenuMobile } from "./HeaderMenuMobile";
 
 export const Header = () => {
   return (
-    <header className="flex justify-between items-center w-full h-[72px] border border-b-gray-200 px-12">
+    <header className="flex justify-between items-center w-full h-[72px] border border-b-gray-200 px-6  md:px-12">
       <HeaderLogo />
       <HeaderMenuDesktop />
 

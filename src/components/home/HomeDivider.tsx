@@ -30,7 +30,7 @@ export const HomeDivider = () => {
   ];
 
   return (
-    <section className="question border bg-primary py-12 px-12">
+    <section className="question border bg-primary py-12 px-4 md:px-12">
       <div className="why-choose-us flex flex-col items-center md:flex-row md:items-center md:justify-between container mx-auto  md:py-8">
         <div className="max-w-[320px]">
           <h3 className="font-semibold text-center text-3xl md:text-4xl md:text-start text-foreground">
